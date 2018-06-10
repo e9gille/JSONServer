@@ -1,0 +1,32 @@
+{
+  "name": "jsonserver",
+  "version": "0.1.1",
+  "description": "rpc server with JSON interface for APL",
+  "main": "JSONServer",
+  "caseCode": "On",
+  "keepHistory": "On",
+  "projectSpace": "JSONServer",
+  "startUp": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dyalog/JSONServer.git"
+  },
+  "keywords": [
+    "http",
+    "json",
+    "rpc",
+    "apl"
+  ],
+  "author": "Dyalog Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e9gille/JSONServer/issues"
+  },
+  "homepage": "https://github.com/e9gille/JSONServer#readme",
+  "dependencies": {
+    "conga": "^3.0.0"
+  }
+}
